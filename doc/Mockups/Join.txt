@@ -1,0 +1,6 @@
+Nella sezione principale ("your events" o "my events" è uguale) mostrerei in ordine di data gli eventi,
+prima quelli più prossimi e poi in giù quelli sempre più in date future.
+Per gli eventi passati farei una sezione a parte, accessibile con un pulsante "archivio", posizionato
+o nella colonna laterale (ma si potrebbe confondere con "your events") oppure in alto prima di ogni evento.
+
+I settings sono una funzionalità aggiuntiva tipo "abilita notifiche mail" ecc.

@@ -1,0 +1,6 @@
+La funzione delle liste di inviti direi di non farla (al limite alla fine se c'è tempo).
+Idem il fatto di mettere diversi tipi di biglietti per un evento.
+Le "analytics" sarebbero il numero di partecipanti attuali con relativi commenti/tag e statistiche varie.
+Sarebbe una pagina a parte in quanto molto corposa, ma alla prima release se non introduciamo i tag/commenti e
+i biglietti multipli si può non fare e al posto dell'icona del grafico (che sarebbe un collegamento
+alla pagina statistiche dell'evento) si può semplicemente mettere un 120/1000 partecipanti.
